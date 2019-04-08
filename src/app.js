@@ -1,0 +1,4 @@
+console(
+  'suri' +
+      'mounics' 'giunn'
+)
